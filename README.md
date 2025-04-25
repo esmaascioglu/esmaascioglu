@@ -21,7 +21,7 @@ Here's a map showing the places I've been.
 
 <div align="center">
   <iframe
-    src="https://raw.githubusercontent.com/esmaascioglu/esmaascioglu/main/my_journey_map.html"  width="80%"
+    src="https://raw.githubusercontent.com/esmaascioglu/esmaascioglu/refs/heads/main/my_journey_map.html"  width="80%"
     height="400"
     frameborder="0"
     allowfullscreen
