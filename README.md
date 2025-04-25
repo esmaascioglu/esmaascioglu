@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Esma Aşcıoğlu
+# Hi there! 👋 I'm Esma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[URL_TO_DARK_MODE_BANNER_IMAGE - Optional]">
