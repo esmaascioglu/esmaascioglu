@@ -9,15 +9,11 @@
 
 <br/>
 
-**Sr. Data Scientist & ML Engineer | GCP Specialist | GIS Expert | Los Angeles, CA ☀️**
+**Sr. Data Scientist & ML Engineer | Los Angeles, CA ☀️**
 
 ---
 
-I'm a Senior Data Scientist based in sunny Los Angeles, passionate about transforming complex data into actionable insights and building scalable machine learning solutions. With 9 years of experience bridging the gap between **geospatial analysis**, **cloud engineering (GCP focus!)**, and **end-to-end ML deployment**, I enjoy tackling challenging problems across diverse industries.
-
-Driven by curiosity, I love exploring patterns in data – whether optimizing business processes, understanding geographic trends, or uncovering the hidden stories in personal datasets (like music!). I'm currently diving deeper into **Generative AI** and its applications in specialized domains.
-
-🌱 Recently relocated to LA, I'm actively seeking exciting opportunities to collaborate with innovative teams and contribute to impactful data science projects.
+I'm a Senior Data Scientist based in sunny Los Angeles, passionate about transforming complex data into actionable insights and building scalable data-driven solutions. 
 
 ---
 
@@ -39,39 +35,13 @@ Driven by curiosity, I love exploring patterns in data – whether optimizing bu
 ## 🔭 What I'm Currently Working On
 
 *   🚀 **Lumees App Concept:** Exploring GenAI for personalized insights! Architecting and building MVP components using fine-tuned LLMs (Gemini/Llama), FastAPI, and multi-cloud serverless deployment (GCP Cloud Run / AWS). *(Repo with snippets coming soon!)*
-*   🎶 **Spotify Listening Analysis:** Diving into personal listening data with Python (Pandas, Matplotlib, Seaborn, maybe Prophet) to uncover trends and patterns. Expect a repo showcasing EDA and visualization soon!
-*   🗺️ **LA Geospatial Exploration:** Getting acquainted with my new city by analyzing LA Open Data using GeoPandas and Folium.
-
----
-
-## ✨ Pinned Projects
-
-<!-- ⭐ Pin your best 3-6 repositories here once they are ready! ⭐ -->
-<!-- Examples: -->
-<!-- [![Repo Card Name](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=YOUR_THEME)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME) -->
-
-*   *(Placeholder: Kaggle Notebook 1 Repo - Predictive Modeling)*
-*   *(Placeholder: Kaggle Notebook 2 Repo - EDA Focus)*
-*   *(Placeholder: Spotify Listening Habits Analysis)*
-*   *(Placeholder: GenAI Backend Snippet - Lumees Concept)*
-*   *(Placeholder: Los Angeles Geospatial Insights)*
 
 ---
 
 ## 📫 Get In Touch
 
 *   **LinkedIn:** [linkedin.com/in/esmaascioglu](https://www.linkedin.com/in/esmaascioglu) <!-- Replace with your actual LinkedIn URL -->
-*   **Email:** [esmaascioglu@gmail.com](mailto:esmaascioglu@gmail.com)
-*   **Portfolio/Website:** *(Optional: Add link if you have one)*
-
-<!-- Optional: Add GitHub Stats -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=YOUR_THEME" alt="GitHub Stats" />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=YOUR_THEME" alt="Top Languages" />
-</p>
--->
+*   **Email:** [hello@stelyum.co]
 
 ---
 
