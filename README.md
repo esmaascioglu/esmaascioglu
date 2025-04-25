@@ -19,7 +19,7 @@ I'm a Senior Data Scientist based in sunny Los Angeles, passionate about transfo
 
 Here's a map showing the places I've been. Click the map preview below to explore the interactive version!
 
-[![My International Journey Map Preview](map_preview.png)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/esmaascioglu/esmaascioglu/main/my_journey_map.html)
+[![My International Journey Map Preview](map_preview.png)](https://esmaascioglu.github.io/esmaascioglu/my_journey_map.html)
 
 <br/>
 
