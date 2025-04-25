@@ -21,7 +21,7 @@ Here's a map showing the significant places I've lived and visited:
 
 <div align="center">
   <iframe
-    src="maps/my_journey_map.html"  width="80%"
+    src="my_journey_map.html"  width="80%"
     height="400"
     frameborder="0"
     allowfullscreen
