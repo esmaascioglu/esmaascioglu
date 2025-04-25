@@ -17,12 +17,11 @@ I'm a Senior Data Scientist based in sunny Los Angeles, passionate about transfo
 
 ## 🗺️ My International Journey
 
-Here's a map showing the significant places I've lived and visited:
+Here's a map showing the places I've been.
 
 <div align="center">
   <iframe
-    src="https://github.com/esmaascioglu/esmaascioglu/blob/4526bee70e5e1f29a2eb6bd44834034bbb929ab7/my_journey_map.html"
-    width="80%"
+    src="https://raw.githubusercontent.com/esmaascioglu/esmaascioglu/main/my_journey_map.html"  width="80%"
     height="400"
     frameborder="0"
     allowfullscreen
