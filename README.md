@@ -3,9 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[URL_TO_DARK_MODE_BANNER_IMAGE - Optional]">
   <source media="(prefers-color-scheme: light)" srcset="[URL_TO_LIGHT_MODE_BANNER_IMAGE - Optional]">
-  <!-- Optional: You can create/find a simple banner image reflecting Data Science/GIS/Cloud -->
-  <!-- <img align="center" src="[URL_TO_DEFAULT_BANNER_IMAGE]" alt="Banner" /> -->
-</picture>
+  </picture>
 
 <br/>
 
@@ -13,39 +11,56 @@
 
 ---
 
-I'm a Senior Data Scientist based in sunny Los Angeles, passionate about transforming complex data into actionable insights and building scalable data-driven solutions. 
+I'm a Senior Data Scientist based in sunny Los Angeles, passionate about transforming complex data into actionable insights and building scalable data-driven solutions. I have a particular interest in applying these skills to solve real-world problems with a geospatial component.
+
+---
+
+## 🗺️ My International Journey
+
+Here's a map showing the significant places I've lived and visited:
+
+<div align="center">
+  <iframe
+    src="maps/my_journey_map.html"  width="80%"
+    height="400"
+    frameborder="0"
+    allowfullscreen
+    style="border:2px solid #ccc; border-radius:10px;"
+  ></iframe>
+</div>
+
+<br/>
 
 ---
 
 ## 🛠️ My Tech Stack & Skills
 
-*   **Programming & Data:**
+* **Programming & Data:**
     [![Python][Python-badge]][Python-url] [![SQL][SQL-badge]][SQL-url] [![Pandas][Pandas-badge]][Pandas-url] [![Numpy][Numpy-badge]][Numpy-url] [![Scikit-learn][Scikit-learn-badge]][Scikit-learn-url]
-*   **ML & AI:**
+* **ML & AI:**
     [![XGBoost][XGBoost-badge]][XGBoost-url] [![LightGBM][LightGBM-badge]][LightGBM-url] [![Prophet][Prophet-badge]][Prophet-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![PyTorch][PyTorch-badge]][PyTorch-url] [![HuggingFace][HuggingFace-badge]][HuggingFace-url] [![Generative AI][GenAI-badge]][GenAI-url]
-*   **Cloud & MLOps:**
+* **Cloud & MLOps:**
     [![GCP][GCP-badge]][GCP-url] [![AWS][AWS-badge]][AWS-url] [![Vertex AI][VertexAI-badge]][VertexAI-url] [![BigQuery][BigQuery-badge]][BigQuery-url] [![Docker][Docker-badge]][Docker-url] [![Kubernetes][Kubernetes-badge]][Kubernetes-url] [![Git][Git-badge]][Git-url]
-*   **Geospatial (GIS):**
+* **Geospatial (GIS):**
     [![PostGIS][PostGIS-badge]][PostGIS-url] [![ArcGIS][ArcGIS-badge]][ArcGIS-url] [![QGIS][QGIS-badge]][QGIS-url] [![GeoPandas][GeoPandas-badge]][GeoPandas-url] [![Folium][Folium-badge]][Folium-url]
-*   **Databases & Viz:**
+* **Databases & Viz:**
     [![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url] [![PowerBI][PowerBI-badge]][PowerBI-url] [![Tableau][Tableau-badge]][Tableau-url]
 
 ---
 
 ## 🔭 What I'm Currently Working On
 
-*   🚀 **Lumees App Concept:** Exploring GenAI for personalized insights! Architecting and building MVP components using fine-tuned LLMs (Gemini/Llama), FastAPI, and multi-cloud serverless deployment (GCP Cloud Run / AWS). *(Repo with snippets coming soon!)*
+* 🚀 **Lumees App Concept:** Exploring GenAI for personalized insights! Architecting and building MVP components using fine-tuned LLMs (Gemini/Llama), FastAPI, and multi-cloud serverless deployment (GCP Cloud Run / AWS). *(Repo with snippets coming soon!)*
 
 ---
 
 ## 📫 Get In Touch
 
-*   **LinkedIn:** [linkedin.com/in/esmaascioglu](https://www.linkedin.com/in/esmaascioglu) <!-- Replace with your actual LinkedIn URL -->
-*   **Email:** [hello@stelyum.co]
+* **LinkedIn:** [linkedin.com/in/esmaascioglu](https://www.linkedin.com/in/esmaascioglu)
+* **Email:** [hello@stelyum.co]
 
 ---
 
-<!-- Badge URLs - You can customize colors/styles via shields.io -->
 [Python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 [SQL-badge]: https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white
